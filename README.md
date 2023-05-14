@@ -8,5 +8,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6884F6&height=200&section=header&text=Jiwon_Github&fontSize=90" />
 </div>
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonKKang)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonKKang&count_private=true&show_icons=true&theme=github_dark_dimmed)
