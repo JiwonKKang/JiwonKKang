@@ -1,31 +1,30 @@
 <div align="center">
-<br><br><br>
-
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there+I'm+Jiwon.)](https://git.io/typing-svg)
 
-<br><br><br>
+<br>
+  
+🎓 충북대학교 소프트웨어학과 재학
+  
+<br>
 
-<!-- devpla's profile -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonKKang&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonKKang&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+  
+</div>
 
 
-<br><br><br>
-
-
-<!--
-**devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonKKang&layout=compact&hide=javascript,css,scss&theme=github_dark_dimmed&langs_count=8"/>
+  
+  ### 🛠 SKILL 🛠
+ 
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  
+</div>
