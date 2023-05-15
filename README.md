@@ -8,6 +8,7 @@
 🎓 충북대학교 소프트웨어학과 재학
   
   <br>
+  <br>
   
   
 </div>
@@ -15,11 +16,13 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonKKang&layout=compact&hide=javascript,css,scss&theme=github_dark_dimmed&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JiwonKKang&show_icons=true&theme=github_dark_dimmed"/>
   
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonKKang&show_icons=true&theme=github_dark_dimmed&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonKKang&layout=compact&hide=javascript,css,scss&theme=github_dark_dimmed&langs_count=8"/>
   
 </div>
+
+<br>
 
 <div align="center">
 
