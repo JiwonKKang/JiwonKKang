@@ -16,8 +16,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JiwonKKang&layout=compact&hide=javascript,css,scss&theme=github_dark_dimmed&langs_count=8"/>
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JiwonKKang&show_icons=true&theme=github_dark_dimmed"/>
   
 </div>
