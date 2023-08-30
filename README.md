@@ -30,12 +30,17 @@
   
 <br>
   
- <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
+<img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gradle-004225?style=flat-square&logo=Gradle"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-E95420?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-E95420?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
-  <br><img src="https://img.shields.io/badge/Ubuntu-E98020?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/Ubuntu-E98020?style=flat-square&logo=Ubuntu&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%20Actions-000000?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white"/>
 
 <br>
    
