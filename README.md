@@ -1,18 +1,19 @@
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: right; width: fit-content;">
-        <br>
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=539bf5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there,+I'm+Jiwon." alt="Typing SVG" />
-        </a>
-        <br><br>
-        🎓 충북대학교 소프트웨어학과 재학<br>
-        🎓 충북대학교 Cloud 및 DevOps 몰입교육 수료<br>
-        🥇 몰입교육 프로젝트 1위<br>
-        📜 SQLD 취득<br>
-        📜 JLPT N1 취득
-        <br><br>
-    </div>
+<div align="center">
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=539bf5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there,+I'm+Jiwon.)](https://git.io/typing-svg)
+
+<br>
+
+🎓  충북대학교 소프트웨어학과 재학<br>
+🎓 충북대학교 Cloud 및 DevOps 몰입교육 수료<br>
+🥇 몰입교육 프로젝트 1위<br>
+📜 SQLD 취득<br>
+📜 JLPT N1 취득 
+
+  
 </div>
+
 
 
 ---
