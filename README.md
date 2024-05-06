@@ -5,11 +5,11 @@
 
 <br>
 
-🎓  충북대학교 소프트웨어학과 재학<br>
-🎓 충북대학교 Cloud 및 DevOps 몰입교육 수료<br>
-🥇 몰입교육 프로젝트 1위<br>
-📜 SQLD 취득<br>
-📜 JLPT N1 취득 
+🎓 Chungbuk National University Software Major
+🎓 Cloud & DevOps Training Completed
+🥇 1st in Cloud & DevOps Training Project
+📜 SQLD Certified
+📜 JLPT N1 Certified
 
   
 </div>
