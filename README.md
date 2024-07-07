@@ -5,11 +5,15 @@
 
 <br>
 
-🎓 Chungbuk National University Software Major<br>
-🎓 CBNU Cloud & DevOps Training Completed<br>
-🥇 1st in Cloud & DevOps Training Project<br>
-📜 SQLD Certified<br>
-📜 JLPT N1 Certified
+• Chungbuk National University Software Major<br>
+• CBNU Cloud & DevOps Training Completed<br>
+• 1st in Cloud & DevOps Training Project<br>
+• Programers Backend 1th DevCourse
+
+#### Certificate
+
+• SQLD Certified<br>
+• JLPT N1 Certified
 
   
 </div>
