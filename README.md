@@ -6,9 +6,8 @@
 <br>
 
 • Chungbuk National University Software Major<br>
-• CBNU Cloud & DevOps Training Completed<br>
-• 1st in Cloud & DevOps Training Project<br>
-• Programers Backend 1th DevCourse
+• CBNU Cloud & DevOps Training Completed(23.07 ~ 23.09)<br>
+• Programers Backend 1th DevCourse(24.07 ~ 24.12)
 
 #### Certificate
 
