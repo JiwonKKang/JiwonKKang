@@ -5,19 +5,20 @@
 
 <br>
 
-• Chungbuk National University Software Major(18.03 ~25.02)<br>
-• CBNU Cloud & DevOps Training(23.07 ~ 23.09)<br>
-• Programmers Backend 1th DevCourse(24.07 ~ 24.12)
+• Chungbuk National University Software Major (18.03 ~ 25.02)<br>
+• CBNU Cloud & DevOps Training (23.07 ~ 23.09)<br>
+• Programmers Backend 1th DevCourse (24.07 ~ 24.12)
 
 #### Certificate
 
 • SQLD Certified<br>
 • JLPT N1 Certified
 
-  
+#### Portfolio
+
+• [JiwonKang Portfolio](https://jiwonkkang.notion.site/E-be68487eb49346e2aa7da500d302746b)
+
 </div>
-
-
 
 ---
 
