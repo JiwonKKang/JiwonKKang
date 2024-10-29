@@ -1,4 +1,3 @@
-<div align="center">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=539bf5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there,+I'm+Jiwon.)](https://git.io/typing-svg)
@@ -18,13 +17,10 @@
 
 • [JiwonKang Portfolio](https://jiwonkkang.notion.site/E-be68487eb49346e2aa7da500d302746b)
 
-</div>
-
 #### Open Source Contributions
 
-• [OpenTelemetry Java - Merged](https://github.com/open-telemetry/opentelemetry-java/pull/6829) : Contributed by identifying and fixing a bug<br>
-• [Portainer - Pending](https://github.com/portainer/portainer/pull/12191) : Contributed by identifying and fixing a bug
-
+• [OpenTelemetry Java - Merged](https://github.com/open-telemetry/opentelemetry-java/pull/6829): Contributed by identifying and fixing a bug<br>
+• [Portainer - Pending](https://github.com/portainer/portainer/pull/12191): Contributed by identifying and fixing a bug, currently under review.
 
 ---
 
