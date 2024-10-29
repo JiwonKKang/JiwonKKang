@@ -19,8 +19,8 @@
 
 #### Open Source Contributions
 
-• [OpenTelemetry Java - Merged](https://github.com/open-telemetry/opentelemetry-java/pull/6829): Contributed by identifying and fixing a bug<br>
-• [Portainer - Pending](https://github.com/portainer/portainer/pull/12191): Contributed by identifying and fixing a bug, currently under review.
+• [OpenTelemetry Java - Merged](https://github.com/open-telemetry/opentelemetry-java/pull/6829) : Contributed by identifying and fixing a bug<br>
+• [Portainer - Pending](https://github.com/portainer/portainer/pull/12191) : Contributed by identifying and fixing a bug, currently under review.
 
 ---
 
