@@ -19,8 +19,11 @@
 
 #### Open Source Contributions
 
-• [OpenTelemetry Java - Merged](https://github.com/open-telemetry/opentelemetry-java/pull/6829) : Contributed by identifying and fixing a bug<br>
-• [Portainer - Pending](https://github.com/portainer/portainer/pull/12191) : Contributed by identifying and fixing a bug, currently under review.
+• [OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java/pull/6829) : bug fix<br>
+• [Portainer](https://github.com/portainer/portainer/pull/12191) : bug fix<br>
+• [LINE Armeria](https://github.com/line/armeria/pull/5962) : clean up
+• [Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3605) : documentaion
+
 
 ---
 
