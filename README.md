@@ -1,29 +1,32 @@
-<br>
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=539bf5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there,+I'm+Jiwon.)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-• Chungbuk National University Software Major (18.03 ~ 25.02)<br>
-• CBNU Cloud & DevOps Training (23.07 ~ 23.09)<br>
-• Programmers Backend 1th DevCourse (24.07 ~ 24.12)
+---
 
-#### Certificate
+### 🎓 Education & Training
 
-• SQLD Certified<br>
-• JLPT N1 Certified
+- **Chungbuk National University** – Software Major `2018.03 - 2025.02`
+- **CBNU Cloud & DevOps Training** `2023.07 - 2023.09`
+- **Programmers Backend 1st DevCourse** `2024.07 - 2024.12`
 
-#### Portfolio
+### 📜 Certifications
 
-• [JiwonKang Portfolio](https://jiwonkkang.notion.site/E-be68487eb49346e2aa7da500d302746b)
+- **SQLD Certified**
+- **JLPT N1 Certified**
 
-#### Open Source Contributions
+### 📂 Portfolio
 
-• [OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java/pull/6829) : bug fix<br>
-• [Portainer](https://github.com/portainer/portainer/pull/12191) : bug fix<br>
-• [LINE Armeria](https://github.com/line/armeria/pull/5962) : clean up
-• [Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3605) : documentaion
+- **[JiwonKang Portfolio](https://jiwonkkang.notion.site/E-be68487eb49346e2aa7da500d302746b)**
 
+### 💻 Open Source Contributions
+
+- **[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java/pull/6829)** – Bug fix
+- **[Portainer](https://github.com/portainer/portainer/pull/12191)** – Bug fix
+- **[LINE Armeria](https://github.com/line/armeria/pull/5962)** – Code clean-up
+- **[Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3605)** – Documentation
 
 ---
 
