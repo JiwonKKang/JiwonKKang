@@ -11,6 +11,7 @@
 - **Chungbuk National University** – Software Major `2018.03 - 2025.02`
 - **CBNU Cloud & DevOps Training** `2023.07 - 2023.09`
 - **Programmers Backend 1st DevCourse** `2024.07 - 2024.12`
+- **Deproomeet 16th Server Part** `2025.01 -`
 
 ### 📜 Certifications
 
