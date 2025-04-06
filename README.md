@@ -20,7 +20,7 @@
 
 ### 📂 Portfolio
 
-- **[JiwonKang Portfolio](https://jiwonkkang.notion.site/E-be68487eb49346e2aa7da500d302746b)**
+- **[JiwonKang Portfolio](https://jiwonkkang.notion.site/be68487eb49346e2aa7da500d302746b?pvs=4)**
 
 ### 💻 Open Source Contributions
 
